@@ -1,2 +1,0 @@
-extern a
-a = a + 2
