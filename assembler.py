@@ -1,7 +1,7 @@
 '''
-AUTHOR :-   Roopansh Bansal     150101053
-			Shivam Gupta        150101068
-			Shubham Singhal     150101072
+AUTHORS:    Mitansh Jain     160101042
+			Sujoy Ghosh      160101073
+			Akul Agrawal     160101085
 '''
 
 import re
