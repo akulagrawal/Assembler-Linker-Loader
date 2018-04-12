@@ -20,24 +20,13 @@ In a txt file specify on separate line all the files you want to link.
 
 ## How to run?
 
-`python3 gui.py`
+`python3 app.py`
 
-Pass the txt file which contains all the files in separate lines you want to assemble link and load.
-
-## How to simulate?
-
-`python3 sim.py`
-
-If you are coming from `gui.py` click on `open passed file` to simulate the
-compiled code, or to open another file click on `open another file`.
-
-## How to specify files for command line usage?
-
-In `main.py`, add files in list x
+open the localhost server mentioned in command line by entering the given address in URL tab in the browser.
 
 ## Example?
 
-Repo contains SampleCodes dir in which there are `sampleCode1.txt`, `sampleCode2.txt`, `sampleCode3` and `testcode.txt`.
+Repo contains SampleCodes dir with sample codes.
 
 # Instruction format
 
