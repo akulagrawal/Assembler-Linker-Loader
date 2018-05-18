@@ -19,8 +19,10 @@ open the localhost server mentioned in command line by entering the given addres
 
 ## Sample Codes
 
-The repo contains Sample Codes for testing purpose in .txt fil format
+The repo contains Sample Codes for testing purpose in .txt file format
 
 # Instruction format
 
 Documentation is provided in .pdf format with all required syntax for writing the code and further details of implementation.
+
+(127.0.0.1)
